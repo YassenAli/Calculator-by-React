@@ -48,4 +48,4 @@ To use the calculator app, follow these steps:
 
 ## Screenshot
 
-![Calculator Screenshot](calculator.png)
+![Calculator](calculator.png)
