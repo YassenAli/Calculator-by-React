@@ -46,6 +46,10 @@ To use the calculator app, follow these steps:
 5. Use the `reset input` button to clear the input field.
 6. Use the `reset result` button to reset the result to 0.
 
+## Live Demo
+
+- Try the calculator [here](https://calculator-by-react-ehxp9qx1j-yassenalis-projects.vercel.app/).
+
 ## Screenshot
 
 ![Calculator](calculator.png)
